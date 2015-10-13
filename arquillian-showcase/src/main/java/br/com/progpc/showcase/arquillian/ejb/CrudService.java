@@ -1,4 +1,4 @@
-package br.com.solyos.showcase.arquillian.ejb;
+package br.com.progpc.showcase.arquillian.ejb;
 
 import javax.ejb.Stateless;
 import javax.ejb.TransactionAttribute;

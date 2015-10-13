@@ -1,4 +1,4 @@
-package br.com.solyos.showcase.arquillian.entity;
+package br.com.progpc.showcase.arquillian.entity;
  
 import java.io.Serializable;
 

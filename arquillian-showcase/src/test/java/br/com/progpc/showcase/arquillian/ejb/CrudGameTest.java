@@ -1,4 +1,4 @@
-package br.com.solyos.showcase.arquillian.ejb;
+package br.com.progpc.showcase.arquillian.ejb;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
@@ -16,7 +16,8 @@ import org.jboss.shrinkwrap.api.spec.WebArchive;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import br.com.solyos.showcase.arquillian.entity.Game;
+import br.com.progpc.showcase.arquillian.ejb.CrudService;
+import br.com.progpc.showcase.arquillian.entity.Game;
 
 @RunWith(Arquillian.class)
 public class CrudGameTest {
