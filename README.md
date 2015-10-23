@@ -1,2 +1,2 @@
 # arquillian-showcase
-Integration tests sample using JPA through an EJB Service Facade
+Integration tests showcase using JPA through an EJB Service Facade
